@@ -1,0 +1,5 @@
+authentication:
+  clientId: <your_client_id>
+  clientSecret: <your_client_secret>
+  accessTokenUri: https://accounts.spotify.com/api/token
+  grant-type: client_credentials
